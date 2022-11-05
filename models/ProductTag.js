@@ -8,9 +8,7 @@ class ProductTag extends Model {}
 
 // Set up fields and rules for Product Tag model
 ProductTag.init(
-  {
-    // TODO: ADD REFERENCE PROPERTIES (2).
-  },
+  {},
   {
     sequelize,
     timestamps: false,
